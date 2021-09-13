@@ -1,0 +1,1 @@
+const lodash = reguire("lodash");

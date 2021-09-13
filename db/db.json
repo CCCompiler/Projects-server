@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Tom",
+      "email": "bigtom@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Little Jimmy",
+      "email": "littlejimmy@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Mid John",
+      "email": "midjohn@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Big Winnetou",
+      "email": "tom@tom.tom"
+    },
+    {
+      "name": "Igen",
+      "email": "Igen@igen.igern",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Marcika",
+      "email": "marci@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "modosittani",
+      "email": "anya@freemail.hu"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userId": 1
+    }
+  ]
+}
